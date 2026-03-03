@@ -1,0 +1,2 @@
+# submoduleclassexample
+sub module
